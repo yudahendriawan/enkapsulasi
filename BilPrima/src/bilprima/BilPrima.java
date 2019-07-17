@@ -23,6 +23,7 @@ public class BilPrima {
         boolean yuda = isPrima(prima);
         System.out.println(prima+" prima? "+yuda);
         System.out.println("LOVEYOU");
+        System.out.println("JANGAN MARAH");
     }
     public static boolean isPrima(int bil){
         boolean hasil = false;
