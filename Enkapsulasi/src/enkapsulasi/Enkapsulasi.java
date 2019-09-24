@@ -38,7 +38,7 @@ public class Enkapsulasi {
         double ipk = input.nextDouble();
         
         System.out.println("===============================================");
-        
+        //AYOOOOO
         Mahasiswa mhs = new Mahasiswa(nrp,nama,semester,ipk);
 //        Mahasiswa mhs = new Mahasiswa();
 //        mhs.setNama(nama);
